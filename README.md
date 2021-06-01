@@ -6,12 +6,12 @@ Being a recent graduate of University, I am constantly and consistantly searchin
 
 ## Some More About Me! ♋️
 - 👩🏽‍💻 I'm currently working as a Technical Project Manager and a Full Stack Software Developer
-- 🔭 I’m currently working on perosnal projects that can be viewd on my Github. I am always working on something
-- 🌱 I’m currently learning different Tech Stacks to increase my knowledge and skills in different frameworks. I am also learning Game Development as i am an aspiring Game Developer
+- 🔭 I’m currently working on perosnal projects that can be viewd on my Github. I am always working on entrepreneurship with the freelance jobs and personal prjects that are worth displaying. 
+- 🌱 I’m currently learning different Tech Stacks to increase my knowledge and skills in different frameworks. I am also learning Game Development as I am an aspiring Game Developer
 - 👯 I’m looking to collaborate on projects with companies and teams and increase my experience 
 - 💬 Ask me about anything. I'm outgoing and friendly and willing to have converstaions with fellow developers
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I watch anime as long as i'm not coding
+- ⚡ Fun fact: I watch anime as long as I'm not coding.
 
 ## 📫 How to Reach Me: 
 - ⛓️ [LinkedIn](https://www.linkedin.com/in/samira-mc-queen-1882431a7/)
