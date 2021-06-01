@@ -1,6 +1,7 @@
 ![Banner](assets/devBanner.png)
 ![Badge](https://komarev.com/ghpvc/?username=smcqueen-95&color=ff69b4) 
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FF69B4.svg?logo=typescript&logoWidth=20)](https://github.com/smcqueen-95)
+[![GitHub license](https://img.shields.io/github/license/smcqueen-95/smcqueen-95?color=ff69b4&label=License)](https://github.com/smcqueen-95/smcqueen-95)
 
 
 ### Hi there 👋🏽
