@@ -1,7 +1,7 @@
 ![Banner](assets/dev-banner.png)
 
 ### Hi there 👋🏽
-Caribbean Software Developer. I enjoy spending my time on the beach 🌊 when i'm not coding 💻
+Caribbean Software Developer 🇬🇩 I enjoy spending my time on the beach 🌊 when i'm not coding 💻
 Being a recent graduate of University, I am constantly and consistantly searching for ways to imporve my skills, and experience. I currently have more than 2 years experience as a Software Developer. I am currently developing my experience as a Full Stack Software Developer. Hopefully I can continue my journey as a Developer and leave a great impact on everyone I meet. 
 
 ## Some More About Me! ♋️
@@ -14,7 +14,8 @@ Being a recent graduate of University, I am constantly and consistantly searchin
 - ⚡ Fun fact: I watch anime as long as i'm not coding
 
 ## 📫 How to Reach Me: 
-- [LinkedIn](https://www.linkedin.com/in/samira-mc-queen-1882431a7/)
-- Email: samira.mcqueen11@gmail.com
-- Blog: Coming Soon
-- Website: Coming Soon
+- ⛓️ [LinkedIn](https://www.linkedin.com/in/samira-mc-queen-1882431a7/)
+- 📨 Email: samira.mcqueen11@gmail.com
+- 🤖[Instagram](https://www.instagram.com/euphoricrasta/)
+- 📄 Blog: Coming Soon
+- 🖥 Website: Coming Soon
