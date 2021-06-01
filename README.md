@@ -13,7 +13,7 @@ Being a recent graduate of University, I am constantly and consistantly searchin
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: I watch anime as long as I'm not coding.
 
-## 📫 How to Reach Me: 
+## 📫 How to Reach Me
 - ⛓️ [LinkedIn](https://www.linkedin.com/in/samira-mc-queen-1882431a7/)
 - 📨 Email: samira.mcqueen11@gmail.com
 - 🤖[Instagram](https://www.instagram.com/euphoricrasta/)
