@@ -1,4 +1,5 @@
 ![Banner](assets/devBanner.png)
+![Badge](https://komarev.com/ghpvc/?username=smcqueen-95&color=ff69b4)
 
 ### Hi there 👋🏽
 Caribbean Software Developer 🇬🇩 I enjoy spending my time on the beach 🌊 when i'm not coding 💻
