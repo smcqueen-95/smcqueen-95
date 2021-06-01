@@ -1,5 +1,5 @@
 ![Banner](assets/devBanner.png)
-
+![Badge](assets/badge.svg)
 ### Hi there 👋🏽
 Caribbean Software Developer 🇬🇩 I enjoy spending my time on the beach 🌊 when i'm not coding 💻
 Being a recent graduate of University, I am constantly and consistantly searching for ways to imporve my skills, and experience. I currently have more than 2 years experience as a Software Developer. I am currently developing my experience as a Full Stack Software Developer. Hopefully I can continue my journey as a Developer and leave a great impact on everyone I meet. 
