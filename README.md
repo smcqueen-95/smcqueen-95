@@ -1,8 +1,6 @@
 ![Banner](assets/devBanner.png)
 ![Badge](https://komarev.com/ghpvc/?username=smcqueen-95&color=ff69b4) 
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FF69B4.svg?logo=typescript&logoWidth=20)](https://github.com/smcqueen-95)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/smcqueen-95/github-readme-stats)
-
 
 
 ### Hi there 👋🏽
@@ -24,3 +22,7 @@ Being a recent graduate of University, I am constantly and consistantly searchin
 - 🤖 [Instagram](https://www.instagram.com/euphoricrasta/)
 - 📄 Blog: Coming Soon
 - 🖥 Website: Coming Soon
+
+## 📈 Statistics
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/smcqueen-95/github-readme-stats)
