@@ -16,6 +16,6 @@ Being a recent graduate of University, I am constantly and consistantly searchin
 ## 📫 How to Reach Me
 - ⛓️ [LinkedIn](https://www.linkedin.com/in/samira-mc-queen-1882431a7/)
 - 📨 Email: samira.mcqueen11@gmail.com
-- 🤖[Instagram](https://www.instagram.com/euphoricrasta/)
+- 🤖 [Instagram](https://www.instagram.com/euphoricrasta/)
 - 📄 Blog: Coming Soon
 - 🖥 Website: Coming Soon
