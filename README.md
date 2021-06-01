@@ -1,4 +1,4 @@
-![Banner](assets/dev-banner.png)
+![Banner](assets/devBanner.png)
 
 ### Hi there 👋🏽
 Caribbean Software Developer 🇬🇩 I enjoy spending my time on the beach 🌊 when i'm not coding 💻
