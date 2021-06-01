@@ -25,4 +25,4 @@ Being a recent graduate of University, I am constantly and consistantly searchin
 
 ## 📈 Statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/smcqueen-95/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/smcqueen-95/github-readme-stats)
