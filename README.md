@@ -2,6 +2,9 @@
 ![Badge](https://komarev.com/ghpvc/?username=smcqueen-95&color=ff69b4) 
 [![typescript](https://img.shields.io/badge/TypeScript-Fan-FF69B4.svg?logo=typescript&logoWidth=20)](https://github.com/smcqueen-95)
 [![GitHub license](https://img.shields.io/github/license/smcqueen-95/smcqueen-95?color=ff69b4&label=License)](https://github.com/smcqueen-95/smcqueen-95)
+[![Game](https://img.shields.io/badge/Game%20Developer-Goal-ff69b4?style=flat&logo=unity)](https://github.com/smcqueen-95)
+[![Gaming](https://img.shields.io/badge/Gaming-Fan-ff69b4)](https://github.com/smcqueen-95)
+
 
 
 ### Hi there 👋🏽
@@ -24,7 +27,7 @@ Being a recent graduate of University, I am constantly and consistantly searchin
 - 📄 Blog: Coming Soon
 - 🖥 Website: Coming Soon
 
-## 📈 Statistics
+## 📈 Github Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smcqueen-95&layout=compact)](https://github.com/smcqueen-95/github-readme-stats)       [![Samira's GitHub stats](https://github-readme-stats.vercel.app/api?username=smcqueen-95&show_icons=true&theme=omni)](https://github.com/smcqueen-95/github-readme-stats)
 
