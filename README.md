@@ -29,6 +29,7 @@ Being a recent graduate of University, I am constantly and consistantly searchin
 ## 📈 Github Statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smcqueen-95&layout=compact&theme=omni)](https://github.com/smcqueen-95/github-readme-stats)       [![Samira's GitHub stats](https://github-readme-stats.vercel.app/api?username=smcqueen-95&show_icons=true&theme=omni)](https://github.com/smcqueen-95/github-readme-stats)
-[![Samira's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Samira&theme=omni)](https://github.com/smcqueen-95/github-readme-streak-stats)
+[![Samira's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Naereen&theme=omni)](https://github.com/smcqueen-95/github-readme-streak-stats)
+[![Samira's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wakeatime&theme=omni)](https://github.com/smcqueen-95/github-readme-stats)
 
 
