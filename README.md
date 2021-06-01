@@ -1,3 +1,5 @@
+![Banner](assets/dev-banner.png)
+
 ### Hi there 👋
 
 <!--
